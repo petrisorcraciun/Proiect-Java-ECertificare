@@ -1,12 +1,2 @@
-3 denisa a Craciun Denisa_Paula acestaesteunemail@yahoo.com 0769330539 6 30 5 0 
-4 a a Craciun Petrisor acestaesteunemail@yahoo.com 0769330539 10 100 1 0 
-5 c c Test Petrisor email@yahoo.com 0769330539 6 30 5 0 
-6 d d Test Petrisor email@yahoo.com 0769330539 6 30 6 1 
-7 dfsdfsd fsdfdsfds fdsfsd fsdfdsfdsf ds dsfdsfds 0 0 0 0 
-8 sdfsdf sdfdsfdsfds fdsf sdfdsf fdsfds dfdsfsd 0 0 0 0 
-9 fsdf dsfdsfdsf sdfsdfds fsadfds fdsfss fsdfdsfds 0 0 0 0 
-10 sdfdsfasd dsf sdfsadfdf adsfsdf sdfds sdfdsf 0 0 0 0 
-11 sdfds fdsfds fdsfds fasf sd dsfsdf 0 0 0 0 
-13 fsfsd df sdfsdf sdfsdf fdsfds dsfds 0 0 0 0 
-14 dsfsdfdfsadf dfsadf fdsfsd fdasfads fdsfds fasdfs 0 0 0 0 
-15 q fdsfdsfs q q fsdfsdfds@gmail.com 43543543543 0 0 0 0 
+1 a a Nume Test acestaesteunemail@yahoo.com 0760000000 10 100 1 0 
+
