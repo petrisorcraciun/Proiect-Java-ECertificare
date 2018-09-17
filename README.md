@@ -1,7 +1,8 @@
 # Proiect-Java---Ecertificate
 
 
-Acest proiect nu foloseste baze de date, stocarea datelor avand loc in fisiere .txt .
+Acest proiect nu foloseste baze de date pentru stocarea datelor.Datele sunt salvate in fisiere .txt .
+Pentru realizarea proiectului nu s-a folosit metoda "Drag and drop".
 
 <b> Functii student: </b>
 - modificare email, nr telefon.
@@ -14,3 +15,5 @@ Acest proiect nu foloseste baze de date, stocarea datelor avand loc in fisiere .
 - adaugare/modificare date studenti
 - adaugare/modificare intrebari
 - adaugare/modificare cursuri.
+
+Daca aveti nevoie de ajutor sau detalii imi puteti scrie la adresa de email: petrisor.craciun34@gmail.com
