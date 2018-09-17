@@ -1,0 +1,4 @@
+Capitolul 1
+Lectia 3
+
+Detectarea unui punct intr-un PSLG
