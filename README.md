@@ -4,7 +4,7 @@
 <b> Prezentare proiect: </b>
 - sistem de predare si invatare folosit de studenti sau elevi pentru acumularea de noi cunostinte.
 
-<b> Functii disponibile pentru conturile de student: </b>
+<b> Functii disponibile pentru conturile de tip student: </b>
 - modificare email, nr telefon.
 - parcurgere cursuri.
 - efectuare teste pentru verificarea cunostintelor si obtinerea certificatului.
@@ -12,7 +12,7 @@
 - vizualizare teste terminate / teste ramase.
 - salvarea punctajului 
 
-<b> Functii disponibile pentru conturile de administrator: </b>
+<b> Functii disponibile pentru conturile de tip administrator: </b>
 - adaugare/modificare date studenti
 - adaugare/modificare intrebari
 - adaugare/modificare cursuri.
