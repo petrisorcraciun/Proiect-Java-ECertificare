@@ -1,4 +1,4 @@
-# Proiect-Java---ECertificate
+# Proiect-Java
 
 
 Acest proiect nu foloseste baze de date pentru stocarea datelor.Datele sunt salvate in fisiere .txt .
