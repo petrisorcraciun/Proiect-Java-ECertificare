@@ -3,6 +3,7 @@
 
 <b> Prezentare proiect: </b>
 - sistem de predare si invatare folosit de studenti sau elevi pentru acumularea de noi cunostinte.
+- stocarea datelor se face in fisiere .txt;
 
 <b> Functii disponibile pentru conturile de tip student: </b>
 - modificare email, nr telefon.
