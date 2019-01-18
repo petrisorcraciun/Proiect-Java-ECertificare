@@ -1,4 +1,4 @@
-# Proiect-ECertificate Java
+# Proiect-ECertificare Java
 
 
 <b> Prezentare proiect: </b>
