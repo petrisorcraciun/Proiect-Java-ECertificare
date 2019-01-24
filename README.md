@@ -1,6 +1,6 @@
 # Proiect-ECertificare Java
 
-
+<hr> 
 <b> Prezentare proiect: </b>
 - sistem de predare si invatare folosit de studenti sau elevi pentru acumularea de noi cunostinte.
 - sistem de logare si verificare daca contul are permisiuni de student/elev sau administrator.
