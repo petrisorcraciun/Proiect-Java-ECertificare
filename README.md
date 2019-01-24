@@ -1,11 +1,12 @@
 # Proiect-ECertificare Java
 
-<hr> 
+
 <b> Prezentare proiect: </b>
 - sistem de predare si invatare folosit de studenti sau elevi pentru acumularea de noi cunostinte.
 - sistem de logare si verificare daca contul are permisiuni de student/elev sau administrator.
 - posibilitate de obtinere a unui certificat de catre student/elev in urma parcurgerii tuturor cursurilor si testelor.
 
+<hr> 
 
 <b> Functii disponibile pentru conturile de tip student: </b>
 
@@ -16,6 +17,8 @@
 - vizualizarea numarului de teste terminate si a numaralui de teste ramase;
 - dupa parcurgerea fiecarui test studentul sau elevul poate salva punctajul obtin sau poate alege optiunea de a reincepe testul. 
 
+<hr> 
+
 <b> Functii disponibile pentru conturile de tip administrator: </b>
 
 - adaugare conturi noi de studenti/elevi;
@@ -23,6 +26,8 @@
 - adaugarea de intrebari ( 10 intrebari pentru fiecare test. );
 - modificarea intrebarilor sau stergerea acestora;
 - adaugarea,editarea sau modificarea unui curs.
+
+<hr> 
 
 <b> Informatii utile: </b> 
 
